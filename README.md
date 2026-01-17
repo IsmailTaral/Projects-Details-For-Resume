@@ -83,6 +83,110 @@ Legal document management system with multilingual support.
 
 ---
 
+# 📂 Professional Project Portfolio  
+### Resemble Systems
+
+---
+
+## 🏗️ Business Process Automation  
+**Client:** Nebras  
+**Duration:** July 2020 – November 2021  
+**Role:** Software Engineer  
+
+### Overview
+Led the implementation of business process automation solutions for **Client Nebras**, with a focus on improving operational efficiency, productivity, and process standardization across key business functions.
+
+### Technologies Used
+- SharePoint 2016  
+- Nintex  
+- HTML, CSS, JavaScript  
+- Bootstrap, jQuery  
+- REST APIs  
+
+### Key Responsibilities
+- Designed and developed **custom Nintex workflows** integrated with SharePoint 2016.
+- Automated complex business processes to reduce manual effort.
+- Built **responsive and user-friendly interfaces** using HTML, CSS, Bootstrap, and jQuery.
+- Integrated REST APIs to enable seamless data exchange between systems.
+- Collaborated with stakeholders to translate business requirements into technical solutions.
+
+### Achievements & Impact
+- Successfully automated **two critical business processes**:
+  - **BD Process** – supporting business growth initiatives.
+  - **Non-BD Process** – managing daily operational workflows.
+- Streamlined workflows related to:
+  - Business development  
+  - Supply chain management  
+  - Logistics  
+  - Quality control  
+- Delivered measurable improvements in efficiency and turnaround time.
+
+---
+
+## ⚖️ Legal Request Management System  
+**Client:** MAF  
+**Duration:** April 2022 – December 2022  
+**Role:** Software Engineer  
+
+### Overview
+Developed a **Legal Request Management application** using SharePoint 2016 and Nintex, transforming legal workflows across **19 countries** and supporting **450+ operational units**.
+
+### Technologies Used
+- SharePoint 2016  
+- Nintex  
+- HTML, CSS, JavaScript  
+- jQuery  
+- REST APIs  
+
+### Key Responsibilities
+- Led the **entire project lifecycle** from requirement gathering to production deployment.
+- Designed and implemented custom workflows and business logic.
+- Developed intuitive user interfaces aligned with business needs.
+- Performed comprehensive testing and quality assurance to ensure stability.
+- Ensured seamless integration between SharePoint, workflows, and external systems.
+
+### Achievements & Impact
+- **Single-handedly delivered and deployed** the application.
+- Significantly improved operational efficiency and legal request turnaround time.
+- Enabled standardized legal workflows across multiple countries.
+- Contributed to increased company revenue through optimized legal operations.
+- Improved collaboration among international legal and business teams.
+
+---
+
+## 📄 Standard Operating Procedure (SOP) – Document Management System  
+**Client:** MAF (Panda – KSA)  
+**Duration:** August 2022 – October 2022  
+**Role:** Sole Developer  
+
+### Overview
+Designed and developed a **SOP Document Management System (DMS)** serving as a centralized platform for **creation, revision, approval, publishing, distribution, review, and archiving** of SOP documents for business transactions and grocery assets.
+
+### Technologies Used
+- SharePoint Online  
+- Nintex  
+- HTML, CSS, JavaScript  
+- jQuery, Bootstrap  
+- REST APIs  
+
+### Key Responsibilities
+- Led **end-to-end development** including design, implementation, testing, and deployment.
+- Built robust document management and approval workflows using Nintex.
+- Implemented **multiple approval hierarchies** to meet governance requirements.
+- Ensured secure access, version control, and document lifecycle management.
+- Optimized UI/UX for ease of use and operational efficiency.
+
+### Achievements & Impact
+- Successfully completed the project **independently within 3 months**.
+- Improved document organization, accessibility, and compliance.
+- Reduced approval turnaround time and manual intervention.
+- Streamlined SOP-related business processes, resulting in higher productivity.
+
+---
+
+📌 *More projects will be added to this section as they are finalized.*
+
+
 ### 🏢 Corporate Intranet Portal
 **Company:** Resemble Systems  
 **Duration:** 2020 – 2021  
