@@ -159,6 +159,30 @@ Centralized system for **creation, revision, approval, publishing, review, and a
 ---
 
 📌 *ITC Infotech projects will be added in a separate section.*
+## 📂 Projects – ITC Infotech
+
+### ⚖️ Legal Research Management System  
+**Client:** Ministry of Culture (MOC)  
+**Role:** Associate IT Consultant  
+**Duration:** 2024 – Present  
+
+**Technologies:**  
+SPFx, ReactJS, SharePoint Online, SharePoint Designer, JavaScript, HTML, CSS, ShareGate
+
+**Project Summary:**  
+Developed a Legal Research Management System to manage legal research requests, approvals, and document storage within the Ministry of Culture.
+
+**Key Responsibilities:**
+- Developed SPFx web parts using ReactJS for legal research request management.
+- Designed and implemented multi-level approval workflows using SharePoint Designer.
+- Built responsive user interfaces using HTML, CSS, and JavaScript.
+- Played a major role in application deployment and post-deployment support.
+- Collaborated with legal and business stakeholders to implement governance-compliant workflows.
+
+**Impact:**
+- Standardized legal research processes across departments.
+- Improved approval efficiency and reduced manual intervention.
+- Enabled centralized storage and reuse of approved legal research documents.
 
 ---
 
